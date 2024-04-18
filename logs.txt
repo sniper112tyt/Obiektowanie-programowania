@@ -1,0 +1,93 @@
+Entropy=1 at 0,4, where solved=True, True
+Entropy=1 at 2,6, where solved=True, True
+Entropy=1 at 4,1, where solved=True, True
+Entropy=1 at 5,8, where solved=True, True
+Entropy=1 at 8,8, where solved=True, True
+Entropy=1 at 9,2, where solved=True, True
+Saving
+7 at 0,3
+1 at 0,4
+7 at 0,5
+7 at 1,4
+9 at 1,6
+9 at 2,5
+1 at 2,6
+9 at 2,7
+2 at 3,1
+9 at 3,6
+2 at 4,0
+1 at 4,1
+2 at 4,2
+7 at 4,8
+2 at 5,1
+7 at 5,7
+1 at 5,8
+7 at 5,9
+7 at 6,8
+9 at 7,8
+8 at 8,2
+9 at 8,7
+1 at 8,8
+9 at 8,9
+8 at 9,1
+1 at 9,2
+8 at 9,3
+9 at 9,8
+Observing 3,7
+7 at 0,3
+1 at 0,4
+7 at 0,5
+7 at 1,4
+9 at 1,6
+9 at 2,5
+1 at 2,6
+9 at 2,7
+2 at 3,1
+9 at 3,6
+1 at 3,7
+2 at 4,0
+1 at 4,1
+2 at 4,2
+7 at 4,8
+2 at 5,1
+7 at 5,7
+1 at 5,8
+7 at 5,9
+7 at 6,8
+9 at 7,8
+8 at 8,2
+9 at 8,7
+1 at 8,8
+9 at 8,9
+8 at 9,1
+1 at 9,2
+8 at 9,3
+9 at 9,8
+------------------------------------------
+Entropy=1 at 0,4, where solved=True, True
+Entropy=1 at 2,6, where solved=True, True
+Entropy=1 at 3,7, where solved=False, False
+Entropy=1 at 4,1, where solved=True, False
+Entropy=1 at 5,8, where solved=True, False
+Entropy=1 at 8,8, where solved=True, False
+Entropy=1 at 9,2, where solved=True, False
+------------------------------------------
+Entropy=1 at 0,4, where solved=True, True
+Entropy=1 at 2,6, where solved=True, True
+Zero at 2,7
+Zero at 3,6
+Entropy=1 at 3,7, where solved=True, True
+Entropy=1 at 4,1, where solved=True, True
+Entropy=1 at 5,8, where solved=True, True
+Entropy=1 at 8,8, where solved=True, True
+Entropy=1 at 9,2, where solved=True, True
+Backtrace
+------------------------------------------
+Entropy=1 at 0,4, where solved=True, True
+Entropy=1 at 2,6, where solved=True, True
+Entropy=1 at 3,7, where solved=False, False
+Entropy=1 at 4,1, where solved=True, False
+Entropy=1 at 5,8, where solved=True, False
+Entropy=1 at 8,8, where solved=True, False
+Entropy=1 at 9,2, where solved=True, False
+------------------------------------------

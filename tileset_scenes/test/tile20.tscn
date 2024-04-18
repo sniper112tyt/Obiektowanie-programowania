@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://jcxncawfun3q"]
+
+[ext_resource type="Texture2D" uid="uid://dc4fjhy8dubtq" path="res://tilesets/demo/tile_20.png" id="1_tho81"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Tile0" type="Sprite2D" parent="."]
+texture = ExtResource("1_tho81")

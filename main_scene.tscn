@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://gyf2dojv8jmk"]
+
+[ext_resource type="Script" path="res://scripts/test.cs" id="2_u7ymu"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(100, 100)
+script = ExtResource("2_u7ymu")
+width = 24
+height = 12
+tileSize = 32
+tilesetName = "test"
